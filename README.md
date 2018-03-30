@@ -1,6 +1,7 @@
 # datatablewithrestspi
 
   Title : Data display in table using rest api
+  
   Create a web page to display people data
 
   1. Data can get to display on page
